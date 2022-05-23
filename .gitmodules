@@ -1,3 +1,6 @@
 [submodule "api-gateway"]
 	path = api-gateway
 	url = git@github.com:aspirina765/api-gateway.git
+[submodule "micro-admin-backend"]
+	path = micro-admin-backend
+	url = git@github.com:aspirina765/micro-admin-backend.git
